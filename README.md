@@ -1,5 +1,11 @@
 # deMon2kGUI
 
+Author: Jonathan Kung
+
+Dennis Salahub, Mauricio Chagas da Silva
+
+University of Calgary
+
 ### Purpose
 Create a simple GUI to allow users to easily make a demon2k input
 ![](https://github.com/jankangle/Python/blob/master/Programs/deMon2kGUI/demon2k%20input.jpg)
@@ -22,5 +28,11 @@ Create a simple GUI to allow users to easily make a demon2k input
 * Default multiplicity is 1 for closed and 2 for open-shell systems
 * Default charge is 0
 * Default for Grid setting is 'Do not fix'. Default grid fix setting is 'Medium'
+
+
+### Future Work
+* Max iterations for Optimization
+* More organized Layout for GUI
+* Checkbox options that would show more options (ie. ECP Y/N, if Y then show ECP settings)
 
 
