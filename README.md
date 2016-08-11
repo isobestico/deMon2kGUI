@@ -16,6 +16,8 @@ Create a simple GUI to allow users to easily make a demon2k input
 * Must put tolerance in the format X.YE-5 example: `1.0E-5`
 * If Shift is 0, input `0` into the entry to not have it show up in the input
 * Frequency calculation is required for Thermo calculation
+* Geometry input file must only contain coordinates. example: delete the first 2 lines from a Molden, Jmol, or Avogadro xyz output
+* Max number of atom coordinates from geometry input is set at 101
 
 ### Additional Information
 * Default basis set is DZVP
